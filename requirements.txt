@@ -1,0 +1,2 @@
+# Requires: forgotten-suspension
+# (Not available on PyPI)
